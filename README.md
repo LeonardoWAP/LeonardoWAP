@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Creditas
+- 🔭 I’m currently working at Creditas 💚🚀
 
 - 🌱 I’m currently learning **Web development** and **data science**
 
